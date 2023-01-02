@@ -4,7 +4,23 @@
 
 USB RTC is an open source real time clock device that comprises MCP2221, a USB-to-UART/I2C serial converter, which enables USB connectivity, in the processes that include a USB, UART(Serial), GPIO, and I2C interfaces. 
 
-       
+## Repository Contents
+
+* [**/Documents**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+
+## Documentation
+
+* [USB RTC Software](https://github.com/sbcshop/USB-RTC-Software)
+* [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
+* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+
+
 ## Related Products
 
 * [SquaryPi](https://shop.sb-components.co.uk/products/squary?variant=40443840921683)
