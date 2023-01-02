@@ -13,12 +13,11 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 ## Documentation
 
 * [USB RTC Software](https://github.com/sbcshop/USB-RTC-Software)
-* [Raspberry Pi Pico Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
+* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
-* [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
-* [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [RP2040 Hardware Design](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-* [Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
+* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 
 ## Related Products
