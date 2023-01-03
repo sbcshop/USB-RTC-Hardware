@@ -6,9 +6,9 @@ USB RTC is an open source real time clock device that comprises MCP2221, a USB-t
 
 ## Repository Contents
 
-* [**/Documents**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
-* [**/Design Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Disign%20Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**](https://github.com/sbcshop/SquaryPi-Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
+* [**/Documents**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Documents) - This directory contains Datasheets of the components
+* [**/Design Data**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Design_Data) - This directory contains Schematic and Dimension files
+* [**/Mechanical Data**](https://github.com/sbcshop/USB-RTC-Hardware/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
 
 ## Documentation
 
